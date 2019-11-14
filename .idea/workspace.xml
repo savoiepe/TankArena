@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6873fc6f-e075-4782-99f2-726e80faa6c2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalproject/AiTank.java" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaSourceFiles/AiTank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalproject/Arrow.java" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaSourceFiles/Arrow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalproject/ControlsPane.java" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaSourceFiles/ControlsPane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalproject/FinalProject.java" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaSourceFiles/FinalProject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalproject/Fire.java" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaSourceFiles/Fire.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalproject/GamePane.java" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaSourceFiles/GamePane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalproject/HealthBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaSourceFiles/HealthBar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalproject/Hitbox.java" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaSourceFiles/Hitbox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalproject/InventoryPane.java" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaSourceFiles/InventoryPane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalproject/MainMenuPane.java" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaSourceFiles/MainMenuPane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalproject/Platform.java" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaSourceFiles/Platform.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalproject/PowerUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaSourceFiles/PowerUp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalproject/Projectile.java" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaSourceFiles/Projectile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalproject/SettingsPane.java" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaSourceFiles/SettingsPane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalproject/TankPane.java" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaSourceFiles/TankPane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Fire_Animation1.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Fire_Animation1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Fire_Animation2.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Fire_Animation2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Fire_Animation3.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Fire_Animation3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Fire_Animation4.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Fire_Animation4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Fire_Animation5.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Fire_Animation5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Fire_Animation6.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Fire_Animation6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Game_Over.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Game_Over.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Menu_Background.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Menu_Background.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Powerup_Armor.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Powerup_Armor.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Powerup_Bounce.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Powerup_Bounce.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Powerup_Damage.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Powerup_Damage.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Powerup_Fire.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Powerup_Fire.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Powerup_Health.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Powerup_Health.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Powerup_Ice.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Powerup_Ice.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Powerup_Knockback.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Powerup_Knockback.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Powerup_Random.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Powerup_Random.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Projectile_Bounce.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Projectile_Bounce.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Projectile_Damage.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Projectile_Damage.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Projectile_Fire.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Projectile_Fire.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Projectile_Knockback.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Projectile_Knockback.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Projectile_ice.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Projectile_ice.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Projectile_normal.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Projectile_normal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Rock_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Rock_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Rock_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Rock_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Rock_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Rock_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Settings_Background.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Settings_Background.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Tank_Armor.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Tank_Armor.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Tank_Blue_Left.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Tank_Blue_Left.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Tank_Blue_Left_Upgraded.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Tank_Blue_Left_Upgraded.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Tank_Blue_Right.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Tank_Blue_Right.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Tank_Blue_Right_Upgraded.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Tank_Blue_Right_Upgraded.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Tank_Damage_Left.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Tank_Damage_Left.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Tank_Damage_Left_Upgraded.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Tank_Damage_Left_Upgraded.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Tank_Damage_Right.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Tank_Damage_Right.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Tank_Damage_Right_Upgraded.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Tank_Damage_Right_Upgraded.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Tank_Explosion1.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Tank_Explosion1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Tank_Explosion2.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Tank_Explosion2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Tank_Explosion3.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Tank_Explosion3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Tank_Explosion4.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Tank_Explosion4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Tank_Explosion5.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Tank_Explosion5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Tank_Explosion6.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Tank_Explosion6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Tank_Explosion7.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Tank_Explosion7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Tank_Frozen_Left.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Tank_Frozen_Left.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Tank_Frozen_Right.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Tank_Frozen_Right.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Tank_Gray_Left.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Tank_Gray_Left.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Tank_Gray_Left_Upgraded.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Tank_Gray_Left_Upgraded.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Tank_Gray_Right.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Tank_Gray_Right.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Tank_Gray_Right_Upgraded.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Tank_Gray_Right_Upgraded.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Tank_Green_Left.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Tank_Green_Left.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Tank_Green_Left_Upgraded.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Tank_Green_Left_Upgraded.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Tank_Green_Right.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Tank_Green_Right.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Tank_Green_Right_Upgraded.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Tank_Green_Right_Upgraded.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Tank_HealthBar.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Tank_HealthBar.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Tank_Inventory.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Tank_Inventory.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Tank_Red_Left.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Tank_Red_Left.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Tank_Red_Left_Upgraded.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Tank_Red_Left_Upgraded.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Tank_Red_Right.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Tank_Red_Right.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Tank_Red_Right_Upgraded.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Tank_Red_Right_Upgraded.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Tank_Yellow_Left.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Tank_Yellow_Left.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Tank_Yellow_Left_Upgraded.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Tank_Yellow_Left_Upgraded.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Tank_Yellow_Right.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Tank_Yellow_Right.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/Tank_Yellow_Right_Upgraded.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/Tank_Yellow_Right_Upgraded.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/explosion.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/explosion.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/lava.gif" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/lava.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/melting-ice-cube-vector.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/melting-ice-cube-vector.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/platforms.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/platforms.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/platforms_ice.png" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/platforms_ice.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectImages/snow-cap-collection_23-2147714352.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaImages/snow-cap-collection_23-2147714352.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectMaps/DefaultMap.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaMaps/DefaultMap.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectMaps/HellMap.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaMaps/HellMap.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectMaps/MoonMap.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaMaps/MoonMap.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectMaps/MountainsMap.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaMaps/MountainsMap.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankArenaFinal/finalprojectMaps/WinterMap.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/TankArenaFinal/TankArenaMaps/WinterMap.PNG" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/TankArenaFinal" />
+  </component>
+  <component name="ProjectId" id="1TaPWY4VBsY8mD18gtYV5pvTkTf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6873fc6f-e075-4782-99f2-726e80faa6c2" name="Default Changelist" comment="" />
+      <created>1573695264531</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573695264531</updated>
+      <workItem from="1573695266107" duration="909000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
